@@ -1,6 +1,7 @@
 # Acusys Hub Database: A Comprehensive Excel based Management System
 This project is a structured Excel-based database designed to streamline data management.
 
+
 ### Overview
 The **Acusys Hub Database** is an Excel-based data management solution designed for **Acusys Hub**, a tech firm. The database provides a comprehensive structure to manage core operational data, including students, employees, courses, payroll, and attendsnce. it utilizes Excel's powerful features such as calculated colums, data validation, and dynamic formulas to maintain accuracy and efficiency in data  processing.
 
